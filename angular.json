@@ -44,7 +44,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/cookies_with_angular/"
+              "baseHref": "/cookies/"
             },
             "development": {
               "buildOptimizer": false,
